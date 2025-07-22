@@ -1,5 +1,5 @@
-## Android Recovery - Device Tree for realme pascala.
-### Detail Specification
+## Device Tree for realme pascala
+###  Android Recovery
 DEVICE         | INFORMATION
 -----:         | :----------
 Brand          | realme
